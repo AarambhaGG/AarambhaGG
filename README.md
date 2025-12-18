@@ -14,8 +14,6 @@ Beyond backend development, I also explore video editing and 3D with Blender in 
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=AarambhaGG&theme=radical&hide_border=false)<br/>
-
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AarambhaGG&theme=blueberry-duo&border_radius=15&card_width=494&card_height=190&hide_total_contributions=true)](https://git.io/streak-stats)
 
 

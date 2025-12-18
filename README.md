@@ -1,4 +1,7 @@
-# 💫 About Me:
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<h1 align="center">Hello There 👋🏻</h1>
+<br>
 
 Hey! I'm Aarambha, a backend developer passionate about building robust, scalable server-side applications. I specialise in creating efficient APIs, working with databases, and architecting solutions that power seamless user experiences behind the scenes.<br><br>
 My focus is on server-side technologies like Node.js, Python, and working with databases like MongoDB and MySQL. I love solving complex problems, optimising performance, and writing clean, maintainable code that forms the backbone of applications.<br><br>
@@ -15,5 +18,10 @@ Beyond backend development, I also explore video editing and 3D with Blender in 
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AarambhaGG&theme=blueberry-duo&border_radius=15&card_width=494&card_height=190&hide_total_contributions=true)](https://git.io/streak-stats)
+
+### ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarambhagg&theme=nord" />
+</p>
 
 

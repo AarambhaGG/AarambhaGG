@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-Hey! I'm Aarambha, a backend developer passionate about building robust, scalable server-side applications. I specialize in creating efficient APIs, working with databases, and architecting solutions that power seamless user experiences behind the scenes.<br><br>
-My focus is on server-side technologies like Node.js, Python, and working with databases like MongoDB and MySQL. I love solving complex problems, optimizing performance, and writing clean, maintainable code that forms the backbone of applications.<br><br>
+Hey! I'm Aarambha, a backend developer passionate about building robust, scalable server-side applications. I specialise in creating efficient APIs, working with databases, and architecting solutions that power seamless user experiences behind the scenes.<br><br>
+My focus is on server-side technologies like Node.js, Python, and working with databases like MongoDB and MySQL. I love solving complex problems, optimising performance, and writing clean, maintainable code that forms the backbone of applications.<br><br>
 Beyond backend development, I also explore video editing and 3D with Blender in my free time, bringing a creative perspective to technical challenges.
 
 ## 🌐 Socials:
@@ -20,6 +20,4 @@ Beyond backend development, I also explore video editing and 3D with Blender in 
 
 ![](https://github.com/AarambhaGG/AarambhaGG/blob/output/github-contribution-grid-snake.svg)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=AarambhaGG&icon=5&color=8)](https://visitcount.itsvg.in)

@@ -16,8 +16,6 @@ Beyond backend development, I also explore video editing and 3D with Blender in 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=AarambhaGG&theme=radical&hide_border=false)<br/>
 
-# 🎮 Pacman Eating Contributions:
 
-![](https://github.com/AarambhaGG/AarambhaGG/blob/output/github-contribution-grid-snake.svg)
 
 

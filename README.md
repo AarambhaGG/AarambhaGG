@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend developer passionate about building **robust, scalable server-side applications**. I specialise in crafting efficient APIs, designing database architectures, and building solutions that power seamless user experiences behind the scenes.
+I'm a backend developer focused on building robust, scalable server-side applications. I specialise in crafting efficient APIs, designing database architectures, and building solutions that power seamless user experiences behind the scenes.
 
 ```python
 class BackendDeveloper:

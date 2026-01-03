@@ -23,7 +23,7 @@ class BackendDeveloper:
         self.name = "Aarambha Gautam"
         self.role = "Backend Developer"
         self.location = "Butwal, Nepal"
-        self.languages = ["Python", "JavaScript", "C++", "C"]
+        self.languages = ["Python", "C++", "C"]
         self.interests = ["System Design", "API Development", "Database Optimisation"]
         self.hobbies = ["Video Editing", "3D Design with Blender", "Gaming"]
     
@@ -48,7 +48,6 @@ me.say_hi()
 
 ### Backend & Databases
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)

@@ -109,10 +109,14 @@ me.say_hi()
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
-
+<br>
 <p align="center">
   <i>⭐️ From <a href="https://github.com/aarambhagg">AarambhaGG</a> - Call Me If You Get Lost!</i>
 </p>
+<br><br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
+
+
+

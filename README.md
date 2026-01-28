@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/aarambhagg?label=Followers&style=social" alt="followers" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a backend developer focused on building robust, scalable server-side applications. I specialise in crafting efficient APIs, designing database architectures, and building solutions that power seamless user experiences behind the scenes.
 
@@ -34,13 +34,13 @@ me = BackendDeveloper()
 me.say_hi()
 ```
 
-### 🎯 What I Do
+###  What I Do
 
-- 🔧 Build scalable **RESTful APIs** and backend systems
-- 🗄️ Design and optimize **database schemas** (MongoDB, MySQL)
-- ⚡ Write clean, maintainable, and efficient server-side code
-- 🎨 Explore creative projects with **Blender** and **video editing**
-- 🌱 Currently learning advanced **system design** and **microservices architecture**
+-  Build scalable **RESTful APIs** and backend systems
+-  Design and optimize **database schemas** (MongoDB, MySQL)
+-  Write clean, maintainable, and efficient server-side code
+-  Explore creative projects with **Blender** and **video editing**
+-  Currently learning advanced **system design** and **microservices architecture**
 
 ---
 
@@ -75,7 +75,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <a href="https://git.io/streak-stats">

@@ -75,13 +75,6 @@ me.say_hi()
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=AarambhaGG&theme=blueberry-duo&border_radius=15&card_width=494&card_height=190&hide_total_contributions=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 ### ⚡ Activity Graph
 <p align="center">

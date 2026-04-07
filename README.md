@@ -76,14 +76,14 @@ me.say_hi()
 ---
 
 
-### ⚡ Activity Graph
+### Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarambhagg&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:aarambhagautam123@gmail.com">

@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Making+My+Own+Tools+;I'm+Aarambha;Backend+Developer;Problem+Solver" alt="Typing SVG" />
-</h1>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AarambhaGG/AarambhaGG/main/images/nerd.gif" width="200" alt="Bear GIF" />
@@ -12,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=aarambhagg&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/aarambhagg?label=Followers&style=social" alt="followers" />
 </p>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Making+My+Own+Tools+;I'm+Aarambha;Backend+Developer;Problem+Solver" alt="Typing SVG" />
+</h1>
 
 
 ###  What I Do

@@ -13,26 +13,7 @@
   <img src="https://img.shields.io/github/followers/aarambhagg?label=Followers&style=social" alt="followers" />
 </p>
 
-## About Me
 
-I'm a backend developer focused on building robust, scalable server-side applications. I specialise in crafting efficient APIs, designing database architectures, and building solutions that power seamless user experiences behind the scenes.
-
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Aarambha Gautam"
-        self.role = "Backend Developer"
-        self.location = "Butwal, Nepal"
-        self.languages = ["Python", "C++", "C"]
-        self.interests = ["System Design", "API Development", "Database Optimisation"]
-        self.hobbies = ["Video Editing", "3D Design with Blender", "Gaming"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-
-me = BackendDeveloper()
-me.say_hi()
-```
 
 ###  What I Do
 
